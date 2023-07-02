@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://1.bp.blogspot.com/-s7yYuaP3Ck8/XcjeD6P9ucI/AAAAAAAABN0/KzgPeW2zP-scuRZO8veHIlwvg91Jvgi3gCLcBGAsYHQ/s1600/greater%2Bnepal%2Bofficial%2Bmap.webp);  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;  
+    
+  }
+  h1{
+    text-align: center;
+    color: red;
+  }
+#special-text{
+    color: black;
+    background-color: blue;
+    font-weight: bolder;
+    font-size: 20px;
+  }
+img{
+  height: 30px;
+  width: 30px;
+}
